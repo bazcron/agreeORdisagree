@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fead50cf-6762-404e-8ace-fa2aec1b26f0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-11-03T094333.200.json" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/2019-11-03T094333.200.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/statements.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/statements.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +21,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="dummy://restClient/response31.json" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="1S6OS80Ryl3pdTZd6qnyy38ZToZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -1359,7 +1364,7 @@
       <workItem from="1572602040642" duration="183000" />
       <workItem from="1572795964420" duration="20000" />
       <workItem from="1572802056466" duration="718000" />
-      <workItem from="1572815900027" duration="1137000" />
+      <workItem from="1572815900027" duration="1508000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1572087697544</created>
@@ -1445,7 +1450,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572460876393</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="initial commit">
+      <created>1572817259969</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1572817259969</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1476,6 +1488,7 @@
     <MESSAGE value="added mongodb and mongoose to node modules" />
     <MESSAGE value="Changed statement method to work with deployed Mongodb Atlas" />
     <MESSAGE value="model users has online persistence using MongoDB.Atlas" />
-    <option name="LAST_COMMIT_MESSAGE" value="model users has online persistence using MongoDB.Atlas" />
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
 </project>

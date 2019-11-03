@@ -9,7 +9,7 @@
 module.exports = statements;*/
 
 let mongoose = require('mongoose');
-
+//
 let statementSchema = new mongoose.Schema({
         id: Number,
         statement: String,

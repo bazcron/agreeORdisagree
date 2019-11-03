@@ -1,3 +1,14 @@
+GET http://localhost:3000/users
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name": "barry", "email": "barry@yahoo.co.uk","password": "barry"}
+
+<> 2019-11-03T094333.200.json
+
+###
+
 PUT http://localhost:3000/users/5db5d5c62ff30f11489ddab1/agree
 Accept: */*
 Cache-Control: no-cache
@@ -532,17 +543,6 @@ Content-Type: application/json
 {"name": "Mary", "email": "maryc@yahoo.co.uk","password": "mary"}
 
 <> 2019-10-27T045004.500.json
-
-###
-
-POST http://localhost:3000/users
-Accept: */*
-Cache-Control: no-cache
-Content-Type: application/json
-
-{"name": "Mary", "email": "maryc@yahoo.co.uk","password": "mary"}
-
-<> 2019-10-27T044643.500.json
 
 ###
 
